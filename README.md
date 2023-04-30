@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=clicly&icon=2&color=9)](https://visitcount.itsvg.in)
 
  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=HYZM882EZE5BE) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=HYZM882EZE5BE)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
