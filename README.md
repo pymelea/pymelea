@@ -1,5 +1,10 @@
 ### Hi there 👋 
 
+## About me!
+Back-End Developer with solid experience in Python, working on international and remote projects. I have strong skills in building RESTful APIs using FastAPI and Django, integrating with external services (such as Binance), handling data with Pandas and NumPy, and deploying applications using Docker and Heroku. I have experience with relational databases (PostgreSQL, MySQL), automated testing (PyTest, UnitTest), and version control with Git.
+
+I’ve also worked with data science and machine learning solutions applied to classification and prediction, in addition to ETL processes and technical documentation using Swagger. I’m comfortable working in agile teams, following SCRUM methodologies, and always committed to writing clean and high-quality code.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pymelea/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/pymelea) 
 
